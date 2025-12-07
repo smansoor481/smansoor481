@@ -1,11 +1,11 @@
 # 💫 About Me:
-👋 Hi there! I'm **Vivek Vishwakarma**, an **Aspiring Java Developer** from **Jabalpur, Madhya Pradesh, India**.  
+👋 Hi there! I'm **Mansoor Shaik**, an **Aspiring Java Developer** from **Bengaluru, Karnataka, India**.  
 I’m passionate about building **scalable backend systems** and **AI-powered applications** using **Java, Spring Boot, and Microservices Architecture**.  
-I love working with **REST APIs**, **cloud platforms**, and **AI model integrations** to create innovative and efficient software solutions. 🚀  
+I love working with **REST APIs**, **cloud platforms**, and **AI model integrations** to create innovative and efficient software solutions. 🚀
 
-**📍 Location:** Jabalpur, Madhya Pradesh, India  
+**📍 Location:** Bengaluru, Karnataka, India 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vivek_is._here) [![!LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-vishwakarma-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekvish0134@gmail.com) 
+[![!LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoor12/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansoor91216@gmail.com) 
 
 
 ---
