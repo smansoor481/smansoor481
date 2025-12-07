@@ -60,7 +60,7 @@ Explored **Spring AI with OpenAI LLM** for intelligent error handling.
 ---
 
 ## 💼 Experience
-**Java Developer Trainee | HulkHire Tech, Hyderabad (Aug 2025 – Present)**  
+**Java Developer Trainee | HulkHire Tech, Hyderabad (Jan 2024 - April 2024)**  
 - Worked on scalable backend applications using **Java**, **Spring Boot**, and **Microservices**.  
 - Collaborated on **REST API design** and implemented best practices in **Agile workflows**.  
 - Enhanced debugging, testing, and software delivery quality.  
